@@ -1,0 +1,17 @@
+16
+Data/Textures/Boards/paddle.png
+Data/Textures/Balls/normal.png
+Data/Textures/Balls/fire.png
+Data/Textures/Balls/rail.png
+Data/Textures/Particles/trail.png
+Data/Textures/Particles/Spark.png
+Data/Textures/bonuses/eightball.png
+Data/Textures/bonuses/Triball.png
+Data/Textures/bonuses/threeball.png
+Data/Textures/bonuses/Slowball.png
+Data/Textures/bonuses/Fastball.png
+Data/Textures/bonuses/smallball.png
+Data/Textures/bonuses/normalball.png
+Data/Textures/bonuses/expandboard.png
+Data/Textures/bonuses/shrinkboard.png
+Data/Textures/bonuses/warplevel.png

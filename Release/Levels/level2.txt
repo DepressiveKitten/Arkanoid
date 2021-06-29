@@ -1,0 +1,17 @@
+8
+Data/Textures/backs/018.jpg
+Data/Textures/Rect/Simple/10.png
+Data/Textures/Rect/Simple/6.png
+Data/Textures/Rect/Simple/8.png
+Data/Textures/Rect/Simple/4.png
+Data/Textures/Rect/Simple/3.png
+Data/Textures/Rect/Simple/2.png
+Data/Textures/Rect/Simple/1.png
+7
+7 0 0 0 1.4 50 4 15
+7 36 0 1 1.4 50 4 15
+7 72 0 2 1.4 50 4 15
+7 108 0 3 1.4 50 4 15
+7 144 0 4 1.4 50 4 15
+7 180 0 5 1.4 50 4 15
+7 216 0 6 1.4 50 4 15

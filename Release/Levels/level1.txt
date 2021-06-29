@@ -1,0 +1,10 @@
+3
+Data/Textures/backs/018.jpg
+Data/Textures/Rect/Simple/3.png
+Data/Textures/Circ/Simple/1.png
+5
+7 0 0 0 1.4 50 4 15
+20 50 1 1 1 50 4 20
+7 115 0 0 1.4 50 6 15
+20 165 1 1 1 50 4 20
+7 230 0 0 1.4 50 4 15
